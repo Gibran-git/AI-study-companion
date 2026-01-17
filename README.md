@@ -1,4 +1,4 @@
-# 🧠 AI Study Companion & Mood Tracker
+# AI Study Companion & Mood Tracker
 
 An intelligent, real-time productivity dashboard that bridges **Computer Vision** and **Web Development** to help students optimize their focus. By analyzing facial expressions, the app tracks emotional states during study sessions and provides actionable insights to prevent burnout.
 
